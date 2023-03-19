@@ -1,2 +1,2 @@
-<h2 align="center" style="margin-bottom: 5px;">Just someone</h2>
+<h2 align="center" style="padding-bottom: 5px;">Just someone</h2>
 
